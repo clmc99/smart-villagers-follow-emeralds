@@ -1,7 +1,6 @@
 # Smart Villagers Follow Emeralds
 
-A simple Fabric mod that makes villagers follow players holding emerald-related items including 
-Emeralds, Emerald Blocks, Emerald Ore, and Emerald Deepslate Ore.
+A simple Fabric mod that makes villagers follow players holding Emerald Blocks.
 
 ### Doesn't this already exist?
 
