@@ -1,9 +1,5 @@
 {
   "values": [
-    "minecraft:emerald",
-    "minecraft:emerald_block",
-    "minecraft:emerald_ore",
-    "minecraft:deepslate_emerald_ore",
-    "#c:emeralds"
+    "minecraft:emerald_block"
   ]
 }
